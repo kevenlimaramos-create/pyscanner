@@ -16,8 +16,8 @@ Ferramenta completa de pentest desenvolvida em Python por **whatcomes**.
 - ✅ Interface interativa e linha de comando
 
 ## 📦 Instalação
-entra na pasta pyscanner
-python install.py
-python3 interactive.py
+1- entra na pasta pyscanner
+2- python3 install.py
+3- python3 interactive.py
 
 interface completamente intuitiva e em português.
